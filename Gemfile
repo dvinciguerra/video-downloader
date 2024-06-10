@@ -24,3 +24,9 @@ group :development do
   gem 'rubocop-performance', '~> 1.21'
   gem 'solargraph', '~> 0.50.0'
 end
+
+group :test do
+  gem 'rack-test', '~> 2.1'
+  gem 'rspec', '~> 3.13'
+  gem 'rspec-html-matchers', '~> 0.10.0'
+end
