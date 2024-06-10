@@ -2,6 +2,8 @@
 
 Project for building a user interface for video download.
 
+![](./public/screenshot.png)
+
 This project aims to practice the use of the Sinatra framework and the use of background job libraries for asynchronous task execution.
 
 ## Installation
