@@ -1,5 +1,8 @@
 # Video Downloader UI
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/ac38ba2861038f191dd2/maintainability)](https://codeclimate.com/github/dvinciguerra/video-downloader/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ac38ba2861038f191dd2/test_coverage)](https://codeclimate.com/github/dvinciguerra/video-downloader/test_coverage)
+
 Project for building a user interface for video download.
 
 ![](./public/screenshot.png)
