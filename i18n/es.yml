@@ -1,0 +1,21 @@
+---
+notify:
+  downloading:
+    title: Descargando
+    content: Video '%1' descargando...
+
+page:
+  title: Interfaz de Descargador de Video
+  nav:
+    home: Inicio
+  home:
+    form:
+      title: Descargar Video
+      fields:
+        code:
+          label: Código del Video
+        submit: Descargar
+    list:
+      title: Videos Locales
+      item:
+        watch_button: Ver o Descargar

@@ -1,0 +1,21 @@
+---
+notify:
+  downloading:
+    title: Baixando
+    content: Baixando video '%1'...
+
+page:
+  title: Video Downloader UI
+  nav:
+    home: Inicio
+  home:
+    form:
+      title: Baixar Video
+      fields:
+        code:
+          label: Código do video
+        submit: Baixar
+    list:
+      title: Videos Locais
+      item:
+        watch_button: Assistir ou Salvar

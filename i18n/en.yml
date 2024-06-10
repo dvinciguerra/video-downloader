@@ -1,0 +1,21 @@
+---
+notify:
+  downloading:
+    title: Downloading
+    content: Video '%1' downloading...
+
+page:
+  title: Video Downloader UI
+  nav:
+    home: Home
+  home:
+    form:
+      title: Download Video
+      fields:
+        code:
+          label: Video Code
+        submit: Download
+    list:
+      title: Local Videos
+      item:
+        watch_button: Watch or Download
